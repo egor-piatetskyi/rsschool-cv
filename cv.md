@@ -15,3 +15,13 @@ I have no experience in IT, but thanks to companies that are ready to take peopl
 - CSS (in progress)
 - HTML (in progress)
 - VScode (in progress too)
+
+## **Education**
+1. [*Taras Shevchenko National University of Kyiv*](http://www.univ.kiev.ua/)
+2. [*Lugansk State Academy of Culture and Arts (located in Kyiv)*](https://ldakm.edu.ua/)
+3. [*Ukrainian Evangelical Theological Seminary*](http://uets.net/)
+
+## Languages
+- *Ukrainian* – native
+- *Russian* – native
+- *English* – B1
