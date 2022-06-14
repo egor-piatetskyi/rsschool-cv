@@ -23,11 +23,32 @@ body {
     display: flex;
     padding: 0;
     margin: 0;
+    margin-top: 10px;
     justify-content: space-around;
 }
 
 .main-nav-item {
     list-style-type: none;
+}
+
+.main-nav-link {
+    display: block;
+    padding: 5px 10px;
+
+    color: rgb(0, 71, 153);
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+
+    border-bottom: 3px solid rgb(0, 71, 153);
+}
+
+section a {
+    color: rgb(0, 71, 153);
+    text-decoration: none;
+
+
+    border-bottom: 1px solid rgb(0, 71, 153);
 }
 
 section {
