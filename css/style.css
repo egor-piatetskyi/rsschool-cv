@@ -2,13 +2,26 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 
 .container {
-    width: 960px;
+    max-width: 960px;
     margin: auto;
     padding: 10px;
+}
+
+.main-nav-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-nav-item {
+    list-style-type: none;
 }
