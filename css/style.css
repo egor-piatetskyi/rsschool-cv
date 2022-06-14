@@ -1,4 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
 .container {
-    max-width: 960px;
+    width: 960px;
     margin: auto;
+    padding: 10px;
 }
